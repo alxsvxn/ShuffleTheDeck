@@ -1,7 +1,12 @@
 ﻿'Alexis Villagran
-'
+'RCET0265
+'Spring2025
+'ShuffleTheDeck
+'https://github.com/alxsvxn/ShuffleTheDeck.git
 
-
+Option Strict On
+Option Compare Text
+Option Explicit On
 Module ShuffleTheDeck
 
     Sub Main()
